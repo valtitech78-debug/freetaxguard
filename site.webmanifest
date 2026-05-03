@@ -1,0 +1,21 @@
+{
+  "name": "TaxGuard 2026 - Free 1099 Tax Calculator",
+  "short_name": "TaxGuard",
+  "description": "Free 1099 tax calculator for freelancers. SE tax, all 50 states, AI insights.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f2e",
+  "theme_color": "#00e5ff",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
