@@ -1,0 +1,15 @@
+{
+  "rewrites": [
+    { "source": "/uber-driver-tax-calculator", "destination": "/uber-driver-tax-calculator.html" },
+    { "source": "/freelance-developer-tax-calculator", "destination": "/freelance-developer-tax-calculator.html" },
+    { "source": "/content-creator-tax-calculator", "destination": "/content-creator-tax-calculator.html" },
+    { "source": "/airbnb-host-tax-calculator", "destination": "/airbnb-host-tax-calculator.html" },
+    { "source": "/etsy-seller-tax-calculator", "destination": "/etsy-seller-tax-calculator.html" },
+    { "source": "/consultant-tax-calculator", "destination": "/consultant-tax-calculator.html" },
+    { "source": "/real-estate-agent-tax-calculator", "destination": "/real-estate-agent-tax-calculator.html" },
+    { "source": "/freelance-designer-tax-calculator", "destination": "/freelance-designer-tax-calculator.html" },
+    { "source": "/healthcare-professional-tax-calculator", "destination": "/healthcare-professional-tax-calculator.html" },
+    { "source": "/general-freelancer-tax-calculator", "destination": "/general-freelancer-tax-calculator.html" },
+    { "source": "/self-employment-tax-calculator", "destination": "/self-employment-tax-calculator.html" }
+  ]
+}
